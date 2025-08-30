@@ -1,10 +1,10 @@
-const CACHE_NAME = 'ai-interview-v1';
+const CACHE_NAME = 'vakyaprep-v1';
 const urlsToCache = [
-  '/',
-  '/static/js/main.js',
-  '/static/css/main.css',
-  '/favicon.ico',
-  '/manifest.json'
+  '/VakyaPrep/',
+  '/VakyaPrep/static/js/main.js',
+  '/VakyaPrep/static/css/main.css',
+  '/VakyaPrep/favicon.ico',
+  '/VakyaPrep/manifest.json'
 ];
 
 // Install event - cache resources

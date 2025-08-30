@@ -21,14 +21,18 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "/VakyaPrep/",
   "display": "standalone",
   "theme_color": "#4f46e5",
   "background_color": "#0f172a",
   "orientation": "portrait-primary",
-  "scope": "/",
+  "scope": "/VakyaPrep/",
   "lang": "en",
-  "categories": ["education", "productivity", "utilities"],
+  "categories": [
+    "education",
+    "productivity",
+    "utilities"
+  ],
   "screenshots": [
     {
       "src": "screenshot-wide.png",

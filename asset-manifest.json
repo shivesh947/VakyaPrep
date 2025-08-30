@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.025583d7.css",
-    "main.js": "./static/js/main.438311ca.js",
-    "static/media/logo.png": "./static/media/logo.98ae4fee117e944859fa.png",
-    "index.html": "./index.html",
-    "main.025583d7.css.map": "./static/css/main.025583d7.css.map",
-    "main.438311ca.js.map": "./static/js/main.438311ca.js.map"
+    "main.css": "/VakyaPrep/static/css/main.025583d7.css",
+    "main.js": "/VakyaPrep/static/js/main.99492ad9.js",
+    "static/media/logo.png": "/VakyaPrep/static/media/logo.98ae4fee117e944859fa.png",
+    "index.html": "/VakyaPrep/index.html",
+    "main.025583d7.css.map": "/VakyaPrep/static/css/main.025583d7.css.map",
+    "main.99492ad9.js.map": "/VakyaPrep/static/js/main.99492ad9.js.map"
   },
   "entrypoints": [
     "static/css/main.025583d7.css",
-    "static/js/main.438311ca.js"
+    "static/js/main.99492ad9.js"
   ]
 }
